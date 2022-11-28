@@ -1,0 +1,12 @@
+Put all possibilities in a 2d array:
+
+age: goes from 17 - 90, mean = 38. if < 38, if >=38
+
+fnlwgt: 12k - 1.4M, mean = 189778. if < 189778, if >= 189778
+
+education & education-num: same, just one is represented with numbers. Might delete education. mean = 10 = some college. If <10, if >=10.
+
+
+capital-gain: min = 0, max = 99999, mean = 1077. if < 1077, if >= 1077
+capital-loss: min = 0, max = 4356, mean = 87. if < 87, if >= 87
+hours-per-week: min = 1, max = 99, mean = 40. if < 40, if >= 40
